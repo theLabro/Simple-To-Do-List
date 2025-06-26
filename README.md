@@ -17,7 +17,6 @@ A simple and elegant To-Do List web application built using **HTML**, **CSS**, a
 
 ## 📸 Screenshots
 
+<img src=assets/screenshot.png alt=To-Do List Screenshot align=left height=400px>
 
-
----
 

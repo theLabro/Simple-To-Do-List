@@ -17,6 +17,13 @@ function addTask() {
   inputBox.value = "";
 }
 
+// ✅ Enable Enter key to trigger addTask()
+inputBox.addEventListener("keydown", function(e) {
+  if (e.key === "Enter") {
+    addTask();
+  }
+});
+
 // Handle task check/uncheck and delete
 listContainer.addEventListener("click", function(e) {
   if (e.target.tagName === "LI") {

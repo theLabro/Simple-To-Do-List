@@ -1,5 +1,5 @@
-[![GitHub Repo Stars](https://img.shields.io/github/stars/theLabro/ios17-inspired-calculator?style=social)](https://github.com/your-username/ios17-inspired-calculator/stargazers)
-[![GitHub Pages](https://img.shields.io/badge/Live-Demo-blue?logo=github)](https://your-username.github.io/ios17-inspired-calculator/)
+[![GitHub Repo Stars](https://img.shields.io/github/stars/theLabro/ios17-inspired-calculator?style=social)](https://github.com/theLabro/ios17-inspired-calculator/stargazers)
+[![GitHub Pages](https://img.shields.io/badge/Live-Demo-blue?logo=github)](https://theLabro.github.io/ios17-inspired-calculator/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 
